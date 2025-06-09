@@ -1,0 +1,54 @@
+
+ body {
+            font-family: 'Georgia', serif;
+            margin: 50px;
+            background-color: #f9f9f9;
+            color: #000;
+        }
+        .header {
+            text-align: left;
+            font-style: italic;
+            font-size: 12px;
+        }
+        .title {
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .section {
+            background-color: #6ea8d7;
+            color: black;
+            font-weight: bold;
+            padding: 8px;
+            margin: 20px 0 10px 0;
+            font-family: 'Arial', sans-serif;
+        }
+        .content {
+            padding:  10px 10px;
+            font-size: 16px;
+        }
+        ol {
+            margin-left: 20px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .thconcpt{
+
+         background-color: #6ea8d7;
+            color: black;
+            font-weight: bold;
+            padding: 8px;
+            margin: 20px 0 10px 0;
+            font-family: 'Arial', sans-serif;
+        }
+        .outcome {
+            font-style: italic;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            font-style: italic;
+            text-align: left;
+        }
+        
